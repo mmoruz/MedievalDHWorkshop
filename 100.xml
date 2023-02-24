@@ -22,7 +22,9 @@
 <variant sigle="PH"><language value="ro"><red>D</red>omnie şi giudecată cîntu ţie, Doamne; </language></variant>
 <variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>M</red>e<i>s</i>[e]reare și giudețu cîntu ție, D[oam]ne. </language></variant>
 <variant sigle="PG"><language value="lat">1. Misericordiam et iudicium cantabo tibi domine. </language><page pageID=""/><language value="lat"> </language></variant>
-<variant sigle="PR"><language value="lat">1. Misericordiam et iudicium cantabo tibi domine </language><page pageID=""/><language value="lat"> </language></variant>
+<variant sigle="PR"><language value="lat">1. Misericordiam et iudicium uiaqyhwb  cantabo tibi domine
+                                </language><page pageID=""/><language value="lat"
+                        > </language></variant>
 </verse>
 <verse id="2">
 <variant sigle="CP1"><language value="sla">по́ѫ и раꙁꙋмѣѫ въ пѫти непорочнѣ</language><language value="ro"> ++  </language><language value="sla">кѡгда̀ прїидеши къ мнѣ</language><language value="ro"> ++  </language></variant>
@@ -34,8 +36,8 @@
 <variant sigle="PH"><language value="ro">Cîntu şi înţeleg în caile nevinovate. Cîndu veri venri cătră menri? </language></variant>
 <variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>C</red>întu și înțelegu în cale nevinovată </language><language value="sla">··</language> <language value="ro"><red>c</red>î<i>n</i>du vere veri cătră mere? </language></variant>
 <variant sigle="PG"><language value="lat">Psallam et intelligam in via immaculata: quando venies ad me. </language></variant>
-<variant sigle="PR"><language value="lat">psallam et intelligam in via immacucvlata: quando venies
-                                ad me. </language></variant>
+<variant sigle="PR"><language value="lat">psallam et intelligam in via  kWHBDLA;K:: cL immacucvlata:
+                                quando venies ad me. </language></variant>
 </verse>
 <verse id="3">
 <variant sigle="CP1"><language value="sla">прѣхо́ждаахь въ незло́би срⷣца мое̑го посрⷣѣ до́мꙋ мое̑го</language><language value="ro"> ++  </language></variant>
@@ -46,7 +48,8 @@
 <variant sigle="PS"><language value="ro">• Trece în nerreul înemi<i>i</i> mele • </language><page pageID="324"/><language value="ro"> pre mijloc de casa me. </language></variant>
 <variant sigle="PH"><language value="ro">Trecuiu nu în rreu<i>l</i> înrimiei meale, în mijloculu caseei meale. </language></variant>
 <variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>T</red>recea în rrău<i>l</i> </language><page pageID="14r"/><language value="ro"> înrimiei meale prin mijlocu de casa mea. </language></variant>
-<variant sigle="PG"><language value="lat">2. Perambulabam in innocentia cordis mei: in medio domus meae. </language></variant>
+<variant sigle="PG"><language value="lat">2. Perambulabam in innocentia cordswdqis mei: in medio
+                                domus meae. </language></variant>
 <variant sigle="PR"><language value="lat">2. Perambulabam in innocentia cordis mei: in medio domus meae. </language></variant>
 </verse>
 <verse id="4">
@@ -58,8 +61,10 @@
 <variant sigle="PS"><language value="ro">• Nu înainte puș[i] între ochii miei lucru leage-călcătorru; <red>•</red> ce feaceră treacere urriu. </language></variant>
 <variant sigle="PH"><language value="ro">Nu ada[u]ş între ochii miei mai mult leage-călcat, cei ce facu călcare gilăluiiu. </language></variant>
 <variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>N</red>u înrainte pușiu între ochii miei fire leage-că<i>l</i>cătoriu, </language><language value="sla">··</language> <language value="ro"><red>c</red>e feaceră treacere urrîre. </language></variant>
-<variant sigle="PG"><language value="lat">3. Non proponebam ante oculos meos rem iniustam: facientes praeuaricationes odiui. </language></variant>
-<variant sigle="PR"><language value="lat">3. Non proponebam ante oculos meos rem malam facientes praeuaricationes odiui. </language></variant>
+<variant sigle="PG"><language value="lat">3. Non propoqwweenebam ante oculos meos rem iniustam:
+                                facientes praeuaricatiewones odiui. </language></variant>
+<variant sigle="PR"><language value="lat">3. Non proponebam ante oculos meos reeew223em malam
+                                facientes praeuaricationes odiui. </language></variant>
 </verse>
 <verse id="5">
 <variant sigle="CP1"><language value="sla">не прилъпе мнѣ срⷣце лѫкаво</language><language value="ro"> ++  </language><language value="sla">оукла́нѣѫщагосѧ ѿ ме́не ꙁла́го не поꙁнахь</language><language value="ro"> ++  </language></variant>
@@ -70,8 +75,10 @@
 <variant sigle="PS"><language value="ro"><red>•</red> Nu lepi-se mie înemă hicleană; <red>•</red> ce feri-se de mine, rreul, nu cunoscuiu. </language></variant>
 <variant sigle="PH"><language value="ro">Nu se lepi mie înrima hicleană, a se rrădzima de menre </language><page pageID="83r"/><language value="ro"> cel rreu, nu-l cunoscuiu. </language></variant>
 <variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>N</red>u lipi-se mie înri<i>mă</i>[u4] hicleană, </language><language value="sla">··</language> <language value="ro"><red>c</red>e feri-se de mere, </language><language value="sla">··</language> <language value="ro"><red>rr</red>ău<i>l</i> nu cunoscuiu, </language></variant>
-<variant sigle="PG"><language value="lat">4. Non adhaesit michi cor prauum: declinantem a me malignum non cognoscebam. </language></variant>
-<variant sigle="PR"><language value="lat">Et non adhaesit michi cor prauum. 4. Declinantes a me malignum non agnoscebam: </language></variant>
+<variant sigle="PG"><language value="lat">4. Non adhaesit michi cor prauum: declinanDASDAStem a me
+                                malignum non cognoscebam. </language></variant>
+<variant sigle="PR"><language value="lat">Et non adhaesit michi codasdr prauum. 4. Declinantes a me
+                                malignum non agnoscebam: </language></variant>
 </verse>
 <verse id="6">
 <variant sigle="CP1"><language value="sla">о҆клеветаѫщаго та́и҆ и҆скрънаго свое̑го, се́го и҆згонѣⷯ</language><language value="ro"> ++  </language></variant>
@@ -82,8 +89,10 @@
 <variant sigle="PS"><language value="ro"><red>•</red> Ce cleveti în ascunsu soțu<i>l</i> său, acesta mînaiu. </language></variant>
 <variant sigle="PH"><language value="ro">Clevetitoriulu furiş vecenrul său, acela scoş; </language></variant>
 <variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>C</red>e clevetiia întru ascunsu soțu<i>l</i> său, acesta-i goniia. </language></variant>
-<variant sigle="PG"><language value="lat">5. Detrahentem secreto proximo suo: hunc persequebar. </language></variant>
-<variant sigle="PR"><language value="lat">detrahentem aduersus proximum suum occulte hunc persequebar. </language></variant>
+<variant sigle="PG"><language value="lat">5. Detrahentemdsas secreto proximo suo: hunc persequebar.
+                        </language></variant>
+<variant sigle="PR"><language value="lat">detrahentem aduersus proximaedaefsefum suum occulte hunc
+                                persequebar. </language></variant>
 </verse>
 <verse id="7">
 <variant sigle="CP1"><language value="sla">гръдымь о̑комь н҆ ны́сытиⷨ срⷣцеⷨ съ сиⷨ не ꙗ̑дѣⷯ</language><language value="ro"> ++  </language></variant>
@@ -94,8 +103,10 @@
 <variant sigle="PS"><language value="ro">• Trufașul cu <note><language value="ro"> Peste slova  </language><language value="sla">к</language><language value="ro"> este făcut un punct cu cerneală roșie. </language></note> ochiu<i>l</i> și nesăturatu<i>l</i> cu înema <red>•</red> cu acea nu mîncaiu. </language></variant>
 <variant sigle="PH"><language value="ro">Cel cu ochiu trufaş şi cu înrima nesătu<i>l</i> cu acela nu mîncaiu. </language></variant>
 <variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>T</red>rufașiu<i>l</i> cu ochiu<i>l</i> și nesăturatu<i>l</i> cu înrima, cu acesta nu mî<i>n</i>caiu. </language></variant>
-<variant sigle="PG"><language value="lat">6. Superbo oculo et insatiabili corde: cum hoc non edebam. </language></variant>
-<variant sigle="PR"><language value="lat">5. Superbo oculo et insatiabili corde: cum hoc simul non edebam. </language></variant>
+<variant sigle="PG"><language value="lat">6. Superbo oculo et insatiabili rqweqwecorde: cum hoc non
+                                edebam. </language></variant>
+<variant sigle="PR"><language value="lat">5. Superbo oqweqqqeeqculo et insatiabili corde: cum hoc
+                                simul non edebam. </language></variant>
 </verse>
 <verse id="8">
 <variant sigle="CP1"><language value="sla">о̑чи мои навѣ́рныѧ зеⷨлѝ</language><language value="ro"> ++  </language><language value="sla">посаждатисѧ съ собоѫ</language><language value="ro"> ++  </language><language value="sla">ходѧи по пѫти непорочнꙋ</language><language value="ro"> ++  </language><language value="sla">съ и́ми слꙋжаа́ше</language><language value="ro"> ++  </language></variant>
@@ -106,8 +117,12 @@
 <variant sigle="PS"><language value="ro"><red>•</red> Ochii miei spre credincioși pămîntu<i>l</i>[u]i, • se puniu ei cu mine, <red>•</red> cei ce îmbla pre cale nevinovată, aceia-mi slujiia. </language></variant>
 <variant sigle="PH"><language value="ro">Ochii miei pre pămîntu<i>l</i> credincioşilor a-i şedea cu sinre a îmbla pre cale nevinovatului, acela-mi slujiia. </language></variant>
 <variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>O</red>chii <note><language value="ro"> Scris:  </language><language value="sla"><red>Ꙫ</red>ꙫкїи</language><language value="ro">. </language></note> miei spre credincioșii pămîntu<i>l</i>[u]i, </language><language value="sla">··</language> <language value="ro"><red>s</red>e puiu pre-<i>n</i>șii cu mere, </language><language value="sla">··</language> <language value="ro"><red>c</red>ei ce î<i>m</i>bla pre cale nevinovată, </language><language value="sla">··</language> <language value="ro"><red>a</red>cesta-mi slujiia. </language></variant>
-<variant sigle="PG"><language value="lat">7. Oculi mei ad fideles terrae vt sedeant mecum: ambulans in via immaculata hic michi ministrabat. </language></variant>
-<variant sigle="PR"><language value="lat">6. Oculi mei super fideles terrae vt sedeant hi mecum: ambulans in via immaculata hic michi ministrabat. </language></variant>
+<variant sigle="PG"><language value="lat">7. Oculi mei ad fideles terrae veqweqwet sedeant mecum:
+                                ambulans in via immaculata hic michi ministrabat.
+                        </language></variant>
+<variant sigle="PR"><language value="lat">6. Oculi mei super fideles terrae vt sedeant hi mecum:
+                                ambueqweqqweeewlans in via immaculata hic michi ministrabat.
+                        </language></variant>
 </verse>
 <verse id="9">
 <variant sigle="CP1"><language value="sla">не жевѣше посрⷣѣ до́мꙋ мое̑го творѧи гръдынѧ</language><language value="ro"> ++  </language><language value="sla">гл҃ѧи непра́веднаа не испра́влѣше прⷣѣ о̑чима моима</language><language value="ro"> ++  </language></variant>
@@ -118,8 +133,12 @@
 <variant sigle="PS"><language value="ro"><red>•</red> Nu viia pre </language><page pageID="325"/><language value="ro"> mijloc de casa me cei ce făcea trufă; <red>•</red> cei grăiia nederreptate nu dereage între ochii miei. </language></variant>
 <variant sigle="PH"><language value="ro">Şi nu via în mijlo<i>c</i> de casa mea cinre face trufăşia şi grăiia nedereptate, nu isprăvia înraintea ochilor miei. </language></variant>
 <variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>N</red>u viia pri mi<i>j</i>lo<i>c</i> de casa mea ce făcea trufă, </language><language value="sla">··</language> <language value="ro"><red>c</red>e grăiia nedereptate, nu dereage între ochii miei. </language></variant>
-<variant sigle="PG"><language value="lat">8. Non habitabit in medio domus meae qui facit superbiam: qui loquitur iniqua non direxit in conspectu oculorum meorum. </language></variant>
-<variant sigle="PR"><language value="lat">7. Non habitabit in medio domus meae qui facit superbiam: qui loquitur iniqua non direxit in conspectu oculorum meorum. </language></variant>
+<variant sigle="PG"><language value="lat">8. Non habitabit in medio domus mqweqqweqeae qui facit
+                                superbiam: qui loquitur iniqua non direxit in conspectu oculorum
+                                meorum. </language></variant>
+<variant sigle="PR"><language value="lat">7. Non habitabit in medio domus meae qui facit superbiam:
+                                qui loeqweqweqeeqwquitur iniqua non direxit in conspectu oculorum
+                                meorum. </language></variant>
 </verse>
 <verse id="10">
 <variant sigle="CP1"><language value="sla">на ѹ̑҄трїа и҆збиваахѫ въсѧ грѣ́шыѧ землѝ</language><language value="ro"> ++  </language><language value="sla">потрѣ́бити ѿ града гн҃ѣ въсѧ творѧщѫѧ безоконїе</language><language value="ro"> ++  </language></variant>
@@ -130,7 +149,11 @@
 <variant sigle="PS"><language value="ro"><red>•</red> Demîneață ucide toți păcătoșii pămîntului, <red>•</red> se curu de cetate D[om]nului toți cei ce facu fărrăleage <note><language value="ro"> Urmează semnul „:”, scris cu negru. </language></note>. </language></variant>
 <variant sigle="PH"><language value="ro">Demînraţă uciş toţi greşnicii pămîntului, se pierdzu den ce[ta]tea lui Dumnedzeu toţi făcătorii fărădeleage. </language></variant>
 <variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>D</red>emîreața ucidea toți păcătoșii pămî<i>n</i>tu<i>l</i>[u]i </language><page pageID="14v"/><language value="ro"> </language><language value="sla">··</language> <language value="ro"><red>s</red>e piară de cetatea D[om]nu<i>l</i>[u]i toți ce facu fărăleage. </language></variant>
-<variant sigle="PG"><language value="lat">9. In matutino interficiebam omnes peccatores terrae: vt disperderem de ciuitate domini omnes operantes iniquitatem. </language></variant>
-<variant sigle="PR"><language value="lat">8. In matutinis interficiebam omnes peccatores terrae: vt disperdam de ciuitate domini omnes qui operantur iniquitatem. </language></variant>
+<variant sigle="PG"><language value="lat">9. In matutino interficiebam omnes peccaeqwetores terrae:
+                                vt disperderem de ciuitate domini omnes operantes iniquitatem.
+                        </language></variant>
+<variant sigle="PR"><language value="lat">8. In matutinis interqwhjficiebam omneqeqws peccatores
+                                terrae: vt disperdam de ciuitate domiqweqni omnes qui operantur
+                                iniquitatem. </language></variant>
 </verse>
 </psalm>
