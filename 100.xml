@@ -13,17 +13,20 @@
 <title sigle="PG" ><red>Psalmus ipsi Dauid. C</red></title>
 <title sigle="PR" ><red>Psalmus ipsi Dauid. C</red></title>
 </titles><verse id="1">
-<variant sigle="CP1"><language value="sla">Ми́лость и҆ сѫдь по́ѫ те́бѣ г҃и</language><language value="ro"> ++  </language></variant>
+                <variant sigle="newSG"><language value="ro">some text</language></variant>
+<variant sigle="CP1"><dot color="black"/><language value="sla">Ми́лость и҆ сѫдь по́ѫ те́бѣ
+                                г҃и</language><language value="ro"> ++ </language></variant>
 <variant sigle="CP1"><language value="sla">··</language><language value="ro"> Mesereare și județul cînt ție, Doamne. </language></variant>
 <variant sigle="CP2"><language value="sla">··</language><language value="ro"> M[i]l[o]<i>s</i>tea și județ cînt ție, Doamne. </language></variant>
 <variant sigle="CP"><language value="ro"><red>M</red>esereare și județul cînt ție, Doamne. </language></variant>
 <variant sigle="PC"><language value="sla">··</language><language value="ro"> Mesereare și giudețu<i>l</i> cî<i>n</i>tă ție, Doa<i>m</i>ne. </language></variant>
-<variant sigle="PS"><language value="ro"><red>M</red>esereare și giudețiu cîntu ție, D[oam]ne. </language></variant>
+<variant sigle="PS"><language value="ro"><red>M</red>esereare și <red>giudețiu</red> cîntu ție,
+                                D[oam]ne. </language></variant>
 <variant sigle="PH"><language value="ro"><red>D</red>omnie şi giudecată cîntu ţie, Doamne; </language></variant>
 <variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>M</red>e<i>s</i>[e]reare și giudețu cîntu ție, D[oam]ne. </language></variant>
 <variant sigle="PG"><language value="lat">1. Misericordiam et iudicium cantabo tibi domine. </language><page pageID=""/><language value="lat"> </language></variant>
-<variant sigle="PR"><language value="lat">1. Misericordiam et iudicium uiaqyhwb  cantabo tibi domine
-                                </language><page pageID=""/><language value="lat"
+<variant sigle="PR"><language value="lat">1. Misericordiam et iudicium uiab some more text cantabo
+                                tibi domine </language><page pageID=""/><language value="lat"
                         > </language></variant>
 </verse>
 <verse id="2">
@@ -36,8 +39,8 @@
 <variant sigle="PH"><language value="ro">Cîntu şi înţeleg în caile nevinovate. Cîndu veri venri cătră menri? </language></variant>
 <variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>C</red>întu și înțelegu în cale nevinovată </language><language value="sla">··</language> <language value="ro"><red>c</red>î<i>n</i>du vere veri cătră mere? </language></variant>
 <variant sigle="PG"><language value="lat">Psallam et intelligam in via immaculata: quando venies ad me. </language></variant>
-<variant sigle="PR"><language value="lat">psallam et intelligam in via  kWHBDLA;K:: cL immacucvlata:
-                                quando venies ad me. </language></variant>
+<variant sigle="PR"><language value="lat">psallam et intelligam in via immaculata: quando venies ad
+                                me. </language></variant>
 </verse>
 <verse id="3">
 <variant sigle="CP1"><language value="sla">прѣхо́ждаахь въ незло́би срⷣца мое̑го посрⷣѣ до́мꙋ мое̑го</language><language value="ro"> ++  </language></variant>
